@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray; 
+  }
+
+h1 {
+    color: rgb(84, 5, 158);
+    margin: 20px;
+}
+
+h2 {
+    color: rgb(112, 20, 199);
+    margin: 20px;
+}
+
+#movieForm {
+    margin: 20px;
+}
+
+button {
+    color: pink;
+    background-color: gray;
+}
+
+.movie {
+    margin-bottom: 10px;
+    color: rgb(58, 90, 220);
+    margin: 20px;
+  }
